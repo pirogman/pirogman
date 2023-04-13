@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pirogman
-- 👀 I’m interested in iOS development
-- 🌱 I’m currently learning Swift
-- 💻 I’m looking to collaborate
+- 🇺🇦 iOS developer from Ukraine
+- 👀 I’m interested in 📱 ⌚️ 💻 development
 - 📫 You can email me at pigorman@gmail.com 
 
 <!---
